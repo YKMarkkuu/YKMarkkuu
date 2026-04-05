@@ -19,7 +19,7 @@ Contact ────────────────────────
 - LinkedIn: ........................... Mark Lauren Laureta
 
 Projects ──────────────────────────────────────────────────
-- DevLearn .......... A customizable student/teacher canvas
+- DEVLearn .......... A customizable student/teacher canvas
 
 Education ─────────────────────────────────────────────────
 - Course.Name: .................. BS Information Technology
