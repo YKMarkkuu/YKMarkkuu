@@ -1,16 +1,29 @@
-## Hi there 👋
+```
+mark@laureta ──────────────────────────────────────────────
+- OS: ............................ Windows 11, Linux Ubuntu
+- Uptime: .................................... 19 Years Old
+- Host: ................................... Example Company
+- Kernel: ............................... Software Engineer
+- IDE: ....................... Visual Studio Code, Netbeans
+-
+- Languages.Programming: ................ Java, C, SQL, PHP
+- Languages.Computer: ..................... HTML, CSS, JSON
+- Languages.Real: ....................... English, Filipino
+- 
+- Hobbies.Software: .......... Game Design, Database Design 
+- Hobbies.Hardware: ................ IoT Building (Arduino)
 
-<!--
-**YKMarkkuu/YKMarkkuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact ───────────────────────────────────────────────────
+- Email.Personal: ..................... ykmarkkuu@gmail.com
+- Email.Work: ................. marklaurenlaureta@gmail.com
+- LinkedIn: ........................... Mark Lauren Laureta
 
-Here are some ideas to get you started:
+Projects ──────────────────────────────────────────────────
+- DevLearn .......... A customizable student/teacher canvas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Education ─────────────────────────────────────────────────
+- Course.Name: .................. BS Information Technology
+- Course.Year: .................................. Sophomore
+- Course.Focus: ................................ All Around
+
+```
