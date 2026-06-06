@@ -1,6 +1,6 @@
 ```
 mark@laureta ──────────────────────────────────────────────
-- OS: ............................ Windows 11, Linux Ubuntu
+- OS: ..................... Windows 11, Linux Ubuntu, MacOS
 - Uptime: .................................... 19 Years Old
 - Kernel: ............................... Software Engineer
 - IDE: ....................... Visual Studio Code, Netbeans
