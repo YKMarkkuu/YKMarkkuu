@@ -18,6 +18,7 @@ Contact ────────────────────────
 - LinkedIn: ........................... Mark Lauren Laureta
 
 Projects ──────────────────────────────────────────────────
+- AetherCore ..................... Social Media Application
 - Markkuu's Archives ................. Poetry Album Website
 - DEVLearn .......... A customizable student/teacher canvas
 
